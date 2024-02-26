@@ -16,6 +16,6 @@ Plot the loss and accuracy for both training data and validation data using the 
 
 Plot one of the images in the test data, and then do inferencing to check what is the prediction of the model on that single image.
 
-We had used 2 hidden layers and Relu activation. Try to change the number of hidden layer and the activation to tanh or sigmoid and see what happens.
 
-Run the same code without scaling the images and check the performance?
+
+
