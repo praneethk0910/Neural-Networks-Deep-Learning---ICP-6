@@ -2,7 +2,7 @@
 
 Code File - ICP_6_Spring24.ipynb Document- ICP_6_Spring24.DOCX 
 
-Video Link: 
+Video Link: https://drive.google.com/file/d/1PwqgRUuuREtR2wWIyo2O79UxC22_z2vb/view?usp=sharing
 
 Use Case Description: Predicting the diabetes disease Programming elements: Keras Basics In class programming:
 
